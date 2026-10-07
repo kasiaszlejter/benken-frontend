@@ -47,7 +47,7 @@ env:
   DEPLOYMENT_NAME: 'deployment-1' # TODO: update to your deployment name
   REPOSITORY: 'benken-frontend' # TODO: update to your Artifact Registry docker repository name
   IMAGE: 'benken-frontend'
-  WORKLOAD_IDENTITY_PROVIDER: 'projects/438197978330/locations/global/workloadIdentityPools/github-pool/providers/my-github-provider' # TODO: update to your workload identity provider
+  WORKLOAD_IDENTITY_PROVIDER: 'projects/438197978330/locations/global/workloadIdentityPools/github-pool/providers/github1' # TODO: update to your workload identity provider
 
 jobs:
   setup-build-publish-deploy:
