@@ -19,7 +19,7 @@ export default function AboutPage() {
               <li>
                 <a
                   className="link"
-                  href="https://github.com/cakeplease"
+                  href="https://github.com/kasiaszlejter"
                   target="_blank"
                 >
                   Github
