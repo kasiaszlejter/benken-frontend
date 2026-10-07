@@ -11,7 +11,7 @@ export default function AboutPage() {
         </div>
         <div className="about-text-section">
           <p className="about-intro">
-            Hei! Mitt navn er Kasia. Så artig at du har funnet veien hit.
+            Hei! Mitt navn er Kasia. Så artig at du har funnet veien hit!
           </p>
           <section className="contact-section">
             <h2 className="contact-title">Let's connect!</h2>
